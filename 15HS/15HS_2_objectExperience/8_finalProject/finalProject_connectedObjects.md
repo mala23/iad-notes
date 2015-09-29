@@ -1,11 +1,11 @@
 # Final Project: Connected Objects – Ideas
 
-– Modular Audio Devices
 – Modular Telepresence System
 – Pomodoro Timer
-– Hedgehog-Warn System
-- Farming Drone 
+– Modular Audio Devices  
+- Farming Drone  
 - Bitcoin Wallet
+– Hedgehog-Warn System
 
 ## Definition: Connected Object
 A **physical object** that through a **connection to the internet,** and the resulting **service-layer** this allows, has **enhanced features** and **functionality**.
