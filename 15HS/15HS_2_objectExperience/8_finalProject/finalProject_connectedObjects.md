@@ -1,10 +1,10 @@
 # Final Project: Connected Objects – Ideas
 
-– Modular Telepresence System
-– Pomodoro Timer
+– Modular Telepresence System  
+– Pomodoro Timer  
 – Modular Audio Devices  
 - Farming Drone  
-- Bitcoin Wallet
+- Bitcoin Wallet  
 – Hedgehog-Warn System
 
 ## Definition: Connected Object
