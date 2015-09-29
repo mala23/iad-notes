@@ -3,8 +3,8 @@
 – Modular Audio Devices
 – Modular Telepresence System
 – Pomodoro Timer
-– Hedgehog-Warn System  
-- Farming Drone  
+– Hedgehog-Warn System
+- Farming Drone 
 - Bitcoin Wallet
 
 ## Definition: Connected Object
