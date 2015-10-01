@@ -1,5 +1,6 @@
-# Final Project: Connected Objects – Ideas
+# Final Project: Connected Objects
 
+## Ideas
 - Modular Telepresence System
 - Pomodoro Timer
 - Modular Audio Devices
@@ -8,7 +9,6 @@
 - Hedgehog-Warn System
 
 ## Brief
-
 - connected objects
 - existing tool, device or system as a network of objects
 - distributed functionality, interface and usage
@@ -34,7 +34,10 @@ A smart timer making the pomodoro technique tangible.
 
 ### Modular Midi Controllers
 A modular system of midi controllers.
+- potis
+- faders
+- buttons
 
-Potis
-Faders
-Buttons
+## Feedback on concept presentation
+- try to distribute the bricks among a crowd
+- try to create a band experience
