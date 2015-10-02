@@ -31,6 +31,10 @@ Smart Home
 
 ### Pomodoro Timer
 A smart timer making the pomodoro technique tangible.
+- timer functionality
+- represent finished pomodoros
+- represent breaks
+- differentiate break sizes
 
 ### Modular Midi Controllers
 A modular system of midi controllers.
@@ -41,3 +45,4 @@ A modular system of midi controllers.
 ## Feedback on concept presentation
 - try to distribute the bricks among a crowd
 - try to create a band experience
+- try to give some sort of feedback to users
