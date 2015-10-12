@@ -2,7 +2,8 @@
 ## A design perspective on information technology
 
 ### A trip down memory lane (9 - 13)
-- dynabook 1968
+- Xerox Palo Alto Research Center
+- Dynabook 1968
 - iphone 6s 47 years later pre-orwellian
 
 ### The artificial world and digital artifacts (19 - 25)
@@ -34,5 +35,4 @@
 - it is given form and structures by the designers own thoughts, considerations, and actions
 - it’s influenced by people’s habits, traditions, and practice
 - design theory can be seen as knowledge that can liberate from preconceived conceptions of how the design process should be
-- it also functions as a conceptional tool to create order in a chaotic
-
+- it also functions as a conceptional tool to create order in a chaotic world of practice
